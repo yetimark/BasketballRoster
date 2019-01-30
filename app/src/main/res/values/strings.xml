@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BasketballRoster</string>
+    <string name="title_activity_add_player">AddPlayer</string>
+</resources>
